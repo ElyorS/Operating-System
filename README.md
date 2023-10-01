@@ -12,7 +12,7 @@ Running the Script
 To run the script, simply execute it in your terminal with the following command:
 bash
 Copy code
-./server_health_checkup.sh
+./12204556_operating_system_hw5.sh
 Interpreting the Results
 The script will display information about the server's health, including:
 Running processes and their resource consumption.
